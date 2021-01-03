@@ -3,7 +3,7 @@
 ##### 组长：于宝胜
 ##### 组员：徐杰、周泽熹
 ### We' are a team!!!
-#### 视频链接：视频链接：https://www.bilibili.com/video/BV1rA411p7FB/
+#### 视频链接：https://www.bilibili.com/video/BV1rA411p7FB/
 ##### 说明：模型训练数据由于过大已上传至课堂派，有需要的同学练习qq：2767571728
 ###### 项目代码、模型详见文件夹
 ### 学习意见：
