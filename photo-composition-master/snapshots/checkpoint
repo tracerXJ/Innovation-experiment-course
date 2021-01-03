@@ -1,0 +1,8 @@
+model_checkpoint_path: "ranker_svm_1000.ckpt-6000"
+all_model_checkpoint_paths: "ranker_svm_1000.ckpt-0"
+all_model_checkpoint_paths: "ranker_svm_1000.ckpt-1000"
+all_model_checkpoint_paths: "ranker_svm_1000.ckpt-2000"
+all_model_checkpoint_paths: "ranker_svm_1000.ckpt-3000"
+all_model_checkpoint_paths: "ranker_svm_1000.ckpt-4000"
+all_model_checkpoint_paths: "ranker_svm_1000.ckpt-5000"
+all_model_checkpoint_paths: "ranker_svm_1000.ckpt-6000"
